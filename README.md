@@ -15,3 +15,10 @@ Income Expenses API
 6. Migrate existing db tables by running `python manage.py migrate`
 
 7. Run the django development server using `python manage.py runserver`
+
+### Note
+1. http://localhost:8000/api/api.json
+2. python manage.py flushexpiredtokens
+3. "redirect_url": "incomeexpenses://reset"
+4. send mail
+5. auth provider facebook, google, twitter
