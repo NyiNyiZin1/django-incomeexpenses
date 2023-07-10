@@ -22,3 +22,4 @@ Income Expenses API
 3. "redirect_url": "incomeexpenses://reset"
 4. send mail
 5. auth provider facebook, google, twitter
+6. swagger UI
