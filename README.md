@@ -16,7 +16,7 @@ Income Expenses API
 
 7. Run the django development server using `python manage.py runserver`
 
-### Note
+### Note(Not useful)
 1. http://localhost:8000/api/api.json
 2. python manage.py flushexpiredtokens
 3. "redirect_url": "incomeexpenses://reset"
